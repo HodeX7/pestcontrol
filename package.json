@@ -9,9 +9,11 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "iconsax": "^0.0.1",
+    "iconsax-react": "^0.0.8",
+    "next": "14.1.0",
     "react": "^18",
-    "react-dom": "^18",
-    "next": "14.1.0"
+    "react-dom": "^18"
   },
   "devDependencies": {
     "autoprefixer": "^10.0.1",
